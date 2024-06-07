@@ -1,10 +1,6 @@
 Name : Meet Rafaliya
-
 Company: Oasis Infobyte
-
-
 Domain: Web development and design
-
 Duration: 20 May to 20 June 2024
 
 Overview of the project
